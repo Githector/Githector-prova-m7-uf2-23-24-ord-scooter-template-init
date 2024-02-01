@@ -26,8 +26,8 @@
         <a class="text-white text-decoration-none" href="">Scooter | </a>
         <a class="text-white text-decoration-none" href="">LogOut | </a>
         <a class="text-white text-decoration-none" href="">Rents | </a>
-        <a class="text-white text-decoration-none" href="">Reset |</a>
-        <a class="text-white text-decoration-none" href="">Items</a>
+        <a class="text-white text-decoration-none" href="/reset/run">Reset |</a>
+        <a class="text-white text-decoration-none" href="/items/index">Items</a>
 
       </div>
     </nav>

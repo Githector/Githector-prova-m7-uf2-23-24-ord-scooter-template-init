@@ -8,7 +8,7 @@
                 $rent = [
                     'id' => //id de lloguer,
                     'id_scooter' => //id del patinet associat
-                    'user' => //usuari loguejat
+                    'user' => //usuari que lloga
                     'start' => //datetime inici lloguer
                     'end' => //Fi de lloguer (null si no ha acabat)
                 ];
